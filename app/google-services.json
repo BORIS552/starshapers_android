@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "291156826796",
+    "firebase_url": "https://starshapers-49b93.firebaseio.com",
+    "project_id": "starshapers-49b93",
+    "storage_bucket": "starshapers-49b93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291156826796:android:15d4a9be915bb09e",
+        "android_client_info": {
+          "package_name": "com.ssd.boris.starshapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291156826796-c9qdjmq450tj94tiqnse5l863j3lpvst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQzbnXdVTfEvHOQXUdXwg9jea8y_pE2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
